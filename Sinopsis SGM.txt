@@ -1,0 +1,10 @@
+SGM (Sitem Gerak Manusia)
+
+SGM adalah sebuah aplikasi berbasis game yang dibuat menggunakan 
+software unity. Game tersebut membahas tentang Sistem 
+Gerak Manusia umtuk jenjang SMP/Mts Sederajat. Dimana didalam game 
+terdapat materi, video pembelajaran dan tes yang didalamnya terdapat 
+soal" yang disediakan untuk dijawab nantinya oleh user. materi dengan 
+video pembelajar sama - sama menyajikan materi namun menyediakan 
+sesuai cara belajar user yang berbeda antara membaca/melihat 
+dan mendengarkan.
